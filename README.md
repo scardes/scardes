@@ -3,12 +3,12 @@
 ## Функциональный тестировщик (QA), учусь на автоматизатора в тестировании (AQA) 
 
 ### Languages and Tools
-![SQL](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL)
-![Jira](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=jira)
+![SQL](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=F8C52C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=F8C52C)
+![Jira](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=jira&logoColor=F8C52C)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git)
-![C#](https://img.shields.io/badge/-C-informational?style=for-the-badge&logo=C%23%)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![HTML](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=HTML)
 
 ### Follow Me
