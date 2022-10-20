@@ -1,6 +1,6 @@
 [![Header](https://github.com/scardes/scardes/blob/main/assets/header.png)](https://github.com/scardes)
 
-## Функциональный тестировщик (QA), учусь на автоматизатора в тестировании (AQA) 
+## Функциональный тестировщик (QA) учусь на автоматизатора в тестировании (AQA) 
 
 ### Языки и инструменты
 ![SQL](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=F8C52C)
