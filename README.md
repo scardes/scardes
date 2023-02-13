@@ -1,7 +1,7 @@
 [![Header](https://github.com/scardes/scardes/blob/main/assets/header.png)](https://github.com/scardes)
 
 ### Language and Tools
-![SQL](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=F8C52C)
+![MSSQL](https://img.shields.io/badge/-MSSQL-informational?style=for-the-badge&logo=mysql&logoColor=F8C52C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=F8C52C)
 ![Jira](https://img.shields.io/badge/-Jira-informational?style=for-the-badge&logo=jira&logoColor=F8C52C)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman)
